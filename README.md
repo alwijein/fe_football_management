@@ -50,7 +50,6 @@ Aplikasi manajemen sepak bola yang lengkap dan modern, dibangun dengan Flutter d
   <img src="docs/sample-image-01.png" width="250" alt="sample-image"/>
   <img src="docs/sample-image-03.png" width="250" alt="sample-image"/>
   <img src="docs/sample-image-04.png" width="250" alt="sample-image"/>
-  <img src="docs/sample-image-05.png" width="250" alt="sample-image"/>
   <img src="docs/sample-image-06.png" width="250" alt="sample-image"/>
   <img src="docs/sample-image-07.png" width="250" alt="sample-image"/>
   <img src="docs/sample-image-08.png" width="250" alt="sample-image"/>
